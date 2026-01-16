@@ -12,4 +12,6 @@ for item in inventory:
         print(f"{item} should be sold at the discounted price of {inventory[item][2]}.")
     else:
         print(f"{item} should be sold at the regular price of {inventory[item][1]}.")
-            
+
+
+print("Krnekj")
